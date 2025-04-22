@@ -1,0 +1,1 @@
+# Nutanix-Multicloud-Infrastructure-NCP-MCI-6.10-Questions-and-Answers
